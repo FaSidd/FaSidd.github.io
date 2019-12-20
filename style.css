@@ -49,6 +49,15 @@ figure {
           transform: translateZ(0);
   will-change: transform;
 }
+
+#avatar {
+  background-image: url(./img/profile.jpg);
+  width: 350px;
+  height: 350px;
+  background-size: cover;
+  background-position: top center;
+  border-radius: 50%;
+}
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
