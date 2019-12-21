@@ -74,7 +74,7 @@ hr {
   color: #00a2ff;
 }
 #avatar {
-  background-image: url(./img/profile.jpg);
+  background-image: url('img/profile.jpg');
   width: 21.87rem;
   height: 21.87rem;
   background-size: cover;
